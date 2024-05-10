@@ -1,0 +1,22 @@
+.final__wrapper {
+  margin: 0 auto;
+  max-width: 1140px;
+  border-radius: 10px;
+  background: #f1f1f1;
+  padding: 25px 45px;
+}
+
+.final__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.final__item {
+  margin-bottom: 10px;
+}
+
+.final__item:last-child {
+  margin-bottom: 30px;
+}

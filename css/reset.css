@@ -1,0 +1,31 @@
+.reset {
+  font-size: 0;
+  text-align: center;
+}
+
+.reset__title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.reset__img {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.reset__img:last-child {
+  margin: 0;
+}
+
+.reset__text {
+  font-size: 20px;
+  line-height: 120%;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.reset__img-wrapper {
+  margin-bottom: 30px;
+}
