@@ -94,3 +94,68 @@ article,
 nav {
   padding: 25px 0;
 }
+
+
+
+/* -------------------artickle style ------------------------- */
+
+
+.article {
+  text-align: center;
+  font-size: 0;
+}
+
+.article__title {
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.general-title {
+  text-align: left;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.sub-title {
+  text-align: left;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.text {
+  text-align: left;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.picture {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+.picture:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.list__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.general-wrapper {
+  margin: 0 auto;
+  max-width: 1140px;
+  border-radius: 10px;
+  background: #f1f1f1;
+  padding: 25px 45px;
+}

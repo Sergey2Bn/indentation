@@ -1,23 +1,16 @@
-.indentation__title {
-  font-weight: 900;
-  font-size: 36px;
-  line-height: 120%;
-  margin-bottom: 30px;
-}
-
 .indentation__wrapper:not(:last-child) {
   font-size: 0;
   margin-bottom: 30px;
 }
 
-.indentation__img {
+.indentation__picture {
   vertical-align: top;
   width: calc(50% + 20px);
   display: inline-block;
   margin-right: 25px;
 }
 
-.indentation__img:last-child {
+.indentation__picture:last-child {
   margin: 0;
 }
 
